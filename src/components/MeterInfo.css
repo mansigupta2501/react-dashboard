@@ -1,0 +1,17 @@
+.batteryStyle {
+  color: #454d5b;
+  font-family: Diodrum;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.4px;
+  text-align: left;
+}
+.plusIconStyle {
+  color: #25832b;
+  font-size: larger;
+}
+
+.pdfIconStyle{
+    color: #B30B00;
+  font-size: larger;
+}
